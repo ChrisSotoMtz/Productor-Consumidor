@@ -15,9 +15,12 @@ Implementacion del algoritmo productor-consumidor
 
 
     -a. El contenedor con los espacios claramente marcados y numerados.
+    
     -b. La información del productor, es decir, mostrar si está dormido, trabajando, cuando
        intente ingresar al contenedor, etc.
+       
     -c. La información del consumidor, dormido, trabajando, cuando intente ingresar, etc.
+    
     -d. Mensajes que indiquen en todo momento, quien está trabajando, o quien intenta
        trabajar, o si está dormido.
        

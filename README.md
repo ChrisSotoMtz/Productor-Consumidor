@@ -13,6 +13,7 @@ Implementacion del algoritmo productor-consumidor
 7. Para que el Consumidor pueda entrar, debe existir producto.
 8. En la pantalla debe aparecer:
 
+
     -a. El contenedor con los espacios claramente marcados y numerados.
     -b. La información del productor, es decir, mostrar si está dormido, trabajando, cuando
        intente ingresar al contenedor, etc.
